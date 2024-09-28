@@ -91,20 +91,21 @@ Contributions are welcome! Please follow the contribution guidelines.
 ## License
 This project is open-source and licensed under the MIT License.
 
-### Folder Structure
-      ```bash
-      ├── Frontend/app              # Frontend React code
-   │   ├── src
-   │   ├── public
-   │   ├── package.json
-   │   └── ...
-   ├── Backend              # Backend NodeJS/Express code
-   │   ├── index.js        # Entry point for the server
-   │   ├── package.json
-   │   └── ...
-   └── .env                # Environment configuration
-
-
-
-
 Thank you for checking out this Real-Time Chat Application! If you find this project useful, don’t forget to give it a ⭐ on GitHub.
+
+### Folder Structure
+   ```bash
+   ├── Frontend/app              # Frontend React code
+│   ├── src
+│   ├── public
+│   ├── package.json
+│   └── ...
+├── Backend              # Backend NodeJS/Express code
+│   ├── index.js        # Entry point for the server
+│   ├── package.json
+│   └── ...
+└── .env                # Environment configuration
+
+
+
+
