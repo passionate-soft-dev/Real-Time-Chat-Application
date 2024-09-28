@@ -88,11 +88,6 @@ Contributions are welcome! Please follow the contribution guidelines.
    4. Push to the branch (git push origin feature/your-feature).
    5. Create a new pull request.
 
-## License
-This project is open-source and licensed under the MIT License.
-
-*Thank you for checking out this Real-Time Chat Application! If you find this project useful, don’t forget to give it a ⭐ on GitHub.*
-
 ### Folder Structure
    ```bash
    ├── Frontend/app              # Frontend React code
@@ -105,7 +100,12 @@ This project is open-source and licensed under the MIT License.
 │   ├── package.json
 │   └── ...
 └── .env                # Environment configuration
+   ```
 
+## License
+This project is open-source and licensed under the MIT License.
+
+*Thank you for checking out this Real-Time Chat Application! If you find this project useful, don’t forget to give it a ⭐ on GitHub.*
 
 
 
