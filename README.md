@@ -91,7 +91,7 @@ Contributions are welcome! Please follow the contribution guidelines.
 ## License
 This project is open-source and licensed under the MIT License.
 
-Thank you for checking out this Real-Time Chat Application! If you find this project useful, don’t forget to give it a ⭐ on GitHub.
+*Thank you for checking out this Real-Time Chat Application! If you find this project useful, don’t forget to give it a ⭐ on GitHub.*
 
 ### Folder Structure
    ```bash
